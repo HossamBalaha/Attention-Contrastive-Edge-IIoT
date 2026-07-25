@@ -1,0 +1,15 @@
+torch>=2.0
+numpy<2
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+scipy
+shap
+captum
+tabpfn
+pytorch-frame
+pytorch-tabular
+pytorch_tabnet
+pytorch_frame
