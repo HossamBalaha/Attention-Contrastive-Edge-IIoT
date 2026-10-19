@@ -1,14 +1,16 @@
 # Attention-Based and Contrastive Deep Learning Models for Real-Time Anomaly Detection in Edge-IIoT Networks
 
-![Status](https://img.shields.io/badge/Status-Under%20Review-orange.svg)
+![Status](https://img.shields.io/badge/Status-Accepted-green.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-Edge--IIoTset-blue.svg)
 ![Journal](https://img.shields.io/badge/Journal-Scientific%20Reports-lightgrey.svg)
+![License](https://img.shields.io/badge/License-MIT-purple.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)
 
 ## 📄 Overview
 
 This repository contains the official implementation of the data preprocessing and deep learning pipelines utilized in
 the study *"Attention-Based and Contrastive Deep Learning Models for Real-Time Anomaly Detection in Edge-IIoT
-Networks"*, which is currently under review in *Scientific Reports*. The pipeline is designed to process the
+Networks"*, which is accepted in *Scientific Reports*. The pipeline is designed to process the
 Edge-IIoTset dataset, train multiple tabular deep learning models, perform statistical aggregation, execute model
 fusion, and generate comprehensive explainability artifacts.
 
@@ -189,20 +191,20 @@ options include:
 
 ## 📚 Citation
 
-If you use this code, framework, or dataset in your research, please cite our paper (currently under review):
+If you use this code, framework, or dataset in your research, please cite our paper:
 
 ```bibtex
 @article{alzighaibi2026attention,
   title={Attention-Based and Contrastive Deep Learning Models for Real-Time Anomaly Detection in Edge-IIoT Networks},
   author={Alzighaibi, Ahmad Reda and Marks, Adam and Almudaifer, Abdullateef I. and Balaha, Hossam Magdy and Ben Halima, Nadhir and Elhosseini, Mostafa A.},
-  journal={Scientific Reports (Under Review)},
+  journal={Scientific Reports},
   year={2026},
   publisher={Springer Nature},
-  note={Under Review}
+  doi={https://doi.org/10.1038/s41598-026-70891-x}
 }
 ```
 
 ## 📜 License
 
-This project is licensed under the terms specified in the `LICENSE` file. Please refer to the manuscript and
-institutional guidelines for detailed usage agreements.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+Please refer to the manuscript and institutional guidelines for detailed usage agreements.
